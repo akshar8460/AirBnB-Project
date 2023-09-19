@@ -1,5 +1,8 @@
 # Airbnb New York 2019 Dataset and Tableau Dashboard
 
+## Preview
+
+![image](https://github.com/akshar8460/AirBnB-Project/assets/78364900/de09266f-d758-46d5-b898-4daafc43ec68)
 
 ## Overview
 
@@ -25,10 +28,6 @@ Created a Tableau dashboard to visualize insights from the cleaned dataset. The 
 ## Installation
 
 To run the Tableau dashboard, you need to have Tableau Desktop installed. You can download it from the [Tableau website](https://www.tableau.com/products/desktop/download).
-
-## Preview
-
-![image](https://github.com/akshar8460/AirBnB-Project/assets/78364900/de09266f-d758-46d5-b898-4daafc43ec68)
 
 ## License
 
