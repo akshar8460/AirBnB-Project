@@ -1,4 +1,3 @@
-# AirBnB-Project
 # Airbnb New York 2019 Dataset and Tableau Dashboard
 
 
@@ -13,7 +12,7 @@ This project aims to provide insights into the Airbnb listings in New York City 
 
 ## Data Cleaning (Python)
 
-We performed data cleaning and preprocessing on the raw dataset to make it suitable for analysis. The following steps were taken:
+Performed data cleaning and preprocessing on the raw dataset to make it suitable for analysis. The following steps were taken:
 
 - Data cleaning: Handling missing values, removing duplicates, and correcting data types.
 - Feature engineering: Creating new features or transforming existing ones as needed.
@@ -21,7 +20,7 @@ We performed data cleaning and preprocessing on the raw dataset to make it suita
 
 ## Tableau Dashboard
 
-We created a Tableau dashboard to visualize insights from the cleaned dataset. The dashboard provides interactive visualizations and key takeaways, making it easier to understand trends and patterns in Airbnb listings in New York City in 2019.
+Created a Tableau dashboard to visualize insights from the cleaned dataset. The dashboard provides interactive visualizations and key takeaways, making it easier to understand trends and patterns in Airbnb listings in New York City in 2019.
 
 ## Installation
 
