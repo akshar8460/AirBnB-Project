@@ -27,6 +27,10 @@ We created a Tableau dashboard to visualize insights from the cleaned dataset. T
 
 To run the Tableau dashboard, you need to have Tableau Desktop installed. You can download it from the [Tableau website](https://www.tableau.com/products/desktop/download).
 
+## Preview
+
+![image](https://github.com/akshar8460/AirBnB-Project/assets/78364900/de09266f-d758-46d5-b898-4daafc43ec68)
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
